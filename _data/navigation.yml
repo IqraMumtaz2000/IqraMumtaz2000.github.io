@@ -1,10 +1,12 @@
-
 main:
   - title: "Publications"
     url: /publications/
 
   - title: "Research"
     url: /research/
+
+  - title: "Professional Experience"
+    url: /professional-experience/
 
   - title: "Teaching"
     url: /teaching/
