@@ -51,6 +51,19 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Verify generated homepage
+        run: |
+          echo "Checking generated website files..."
+          echo "-----------------------------------"
+          find _site -maxdepth 2 -type f | sort | head -100
+          echo "-----------------------------------"
+
+          if [ -f "_site/index.html" ]; then
+            echo "SUCCESS: Root index.html exists."
+          else
+            echo "ERROR: Root index.html is missing."
+            exit 1
+          fi
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v5.0.0
 
