@@ -3,124 +3,185 @@ layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 # Iqra Mumtaz
 
 **Doctoral Researcher in Management of Digital Transformation (MDT)**  
-IMT School for Advanced Studies Lucca, Italy
+**IMT School for Advanced Studies Lucca, Italy**
 
-Email: [imumtaz2000@gmail.com](mailto:imumtaz2000@gmail.com)
+Email: [imumtaz2000@gmail.com](mailto:imumtaz2000@gmail.com)  
+Location: Lucca, Italy  
+LinkedIn: [linkedin.com/in/iqra-mumtaz-357448373](https://www.linkedin.com/in/iqra-mumtaz-357448373/)
 
-## Professional Profile
+---
 
-Doctoral researcher in Management of Digital Transformation at IMT School for Advanced Studies Lucca, Italy. My research focuses on health economics, rare diseases, immunology, plasma-derived therapies, and real-world evidence. I am particularly interested in applying artificial intelligence, machine learning, and advanced data analytics to healthcare research, evidence generation, and health policy.
+## 1. Professional Summary
 
-My academic work combines evidence synthesis, health economics, systematic reviews, and interdisciplinary research on immune deficiencies and infectious diseases.
+Multidisciplinary researcher and data analyst with over 10 years of experience across health research, evidence synthesis, scientific consulting, and data analytics. Currently pursuing a PhD in Management of Digital Transformation at IMT School for Advanced Studies Lucca, Italy. Research interests and experience include health economics, immunology, secondary immunodeficiency, plasma-derived therapies, and real-world evidence. Experienced in systematic reviews, quantitative research, statistical analysis, research reporting, and scientific communication, with a developing focus on machine learning and advanced data analytics for healthcare research.
 
-## Education
+---
 
-**PhD in Management of Digital Transformation (MDT)**  
-IMT School for Advanced Studies Lucca, Italy  
-2024–2027
+## 2. Core Competencies
 
-**Master of Science (MSc) in Economics**  
-National University of Modern Languages (NUML), Pakistan  
+| Area | Competencies |
+|---|---|
+| Health Economics and Healthcare Research | Health economics, healthcare research, clinical research, healthcare outcomes |
+| Evidence Synthesis | Systematic reviews, meta-analysis, PRISMA-based research, literature evaluation |
+| Real-World Evidence | Real-world evidence, healthcare data interpretation, evidence-based decision-making |
+| Statistical and Quantitative Analysis | Statistical analysis, quantitative research, data cleaning, exploratory data analysis |
+| Machine Learning and Healthcare Data Science | Predictive analytics, regression, classification, clustering, healthcare data science |
+| Scientific Communication | Scientific writing, manuscript development, technical reporting, research dissemination |
+
+---
+
+## 3. Professional Experience
+
+### Research Scientist — Osmo Technologies
+**January 2021 – Present | Freelance | Pakistan**
+
+- Lead and contribute to multidisciplinary research initiatives involving policy analysis and technology-driven investigations.
+- Conduct PRISMA-compliant systematic reviews, evidence synthesis, and critical literature evaluation.
+- Apply data analysis and statistical visualization to support research findings and reporting.
+- Develop scientific publications, technical reports, and research communications across different subject areas.
+
+### Research Assistant — Gulf Consultancy
+**December 2020 – Present | Freelance | Pakistan**
+
+- Conduct systematic reviews, literature evaluations, and quantitative research.
+- Process and analyse research datasets using SPSS, R, and Microsoft Excel.
+- Contribute to evidence synthesis projects, structured research evaluations, and institutional research reports.
+
+### Copywriter — MBG
+**March 2021 – Present | Pakistan**
+
+- Develop research-informed content and communication materials for brand promotion and positioning.
+- Prepare technical reports, analytical documentation, and professional written content.
+- Translate complex information into clear, structured, and audience-appropriate communication.
+
+---
+
+## 4. Teaching Experience
+
+### High School Teacher — Allied Schools
+**June 2018 – June 2025 | Pakistan**
+
+- Planned and delivered lessons in accordance with educational requirements.
+- Assessed students' academic progress, strengths, and areas requiring improvement.
+- Communicated with parents regarding student performance and development.
+
+### Secondary School Teacher — The Educators
+**March 2014 – May 2018 | Pakistan**
+
+- Prepared daily and annual lesson plans and classroom learning activities.
+- Developed quizzes, tests, projects, and homework assignments.
+- Maintained student performance records and participated in professional training workshops.
+
+---
+
+## 5. Education
+
+### PhD in Management of Digital Transformation (MDT)
+**IMT School for Advanced Studies Lucca, Italy**  
+2024 – 2027 (Expected)
+
+### Master of Science (MSc) in Economics
+**National University of Modern Languages (NUML), Pakistan**  
 2013
 
-**Bachelor of Science (BSc)**  
-University of the Punjab, Pakistan  
+### Bachelor of Science (BSc)
+**University of the Punjab, Pakistan**  
 2010
 
-## Research Expertise
+---
 
-- Health Economics
-- Rare Diseases and Immunology
-- Plasma-Derived Therapies
-- Secondary Immunodeficiency
-- Real-World Evidence (RWE)
-- Healthcare Data Analytics
-- Artificial Intelligence and Machine Learning in Healthcare
-- Evidence Synthesis and Systematic Reviews
-- Scoping Reviews and Research Methodology
+## 6. Peer-Reviewed Publications
 
-## Professional Experience
+### 1. Rethinking Secondary Immunodeficiency: A Cross-Domain Pathway Framework for Risk Stratification
 
-My professional experience includes roles in:
+*Frontiers in Immunology* (2026)
 
-- Research Scientist
-- Research Assistant
-- Copywriter and Research Consultant
-
-## Publications
-
-### 1. Rethinking secondary immunodeficiency: a cross-domain pathway framework for risk stratification
-
-**Journal:** Frontiers in Immunology
+[Read the published article](https://doi.org/10.3389/fimmu.2026.1866662)
 
 **DOI:** [10.3389/fimmu.2026.1866662](https://doi.org/10.3389/fimmu.2026.1866662)
 
 ### 2. Redefining Secondary Immunodeficiency: A Systematic Review of Therapy-Driven Risk, Functional Immune Deficits, Diagnostic Inconsistencies, and Global Gaps in Standardized Care
 
-**Journal:** Journal of Clinical Immunology
+*Journal of Clinical Immunology* (2026)
+
+[Read the published article](https://doi.org/10.1007/s10875-026-02071-5)
 
 **DOI:** [10.1007/s10875-026-02071-5](https://doi.org/10.1007/s10875-026-02071-5)
 
-## Ongoing Research Collaborations
+---
 
-### 1. Post-Tuberculosis Lung Sequelae: A Scoping Review
+## 7. Research Collaborations and Projects
 
-**Collaboration:** University of New South Wales (UNSW), Australia
+### Post-Tuberculosis Lung Sequelae: A Scoping Review
+**Collaborator:** University of New South Wales (UNSW), Australia  
+**Research Methodology:** Scoping review  
+**Status:** Ongoing
 
-**Methodology:** Scoping review
+An international research collaboration examining the evidence on post-tuberculosis lung sequelae, long-term pulmonary consequences, and gaps in the existing literature.
 
-Research collaboration investigating post-tuberculosis lung sequelae through evidence mapping and structured literature synthesis.
+### Machine Learning Research on Infectious Diseases
+**Collaborator:** University Medical Center Hamburg-Eppendorf (UKE), Germany  
+**Research Methodology:** Machine learning and advanced data analytics  
+**Status:** Ongoing
 
-### 2. Machine Learning Research on Infectious Diseases
+Collaborative research exploring the application of machine learning and data-driven analytical methods to investigate patterns in infectious disease research.
 
-**Collaboration:** University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany
+[View research projects and portfolio](/portfolio/)
 
-**Research focus:** Machine learning and advanced data analytics
+---
 
-Collaborative research applying machine learning approaches and advanced analytical methods to infectious disease research.
+## 8. Technical Skills
 
-## Technical and Research Skills
+| Category | Skills and Tools |
+|---|---|
+| Programming | Python, R, SQL, Visual Basic |
+| Statistical and Quantitative Analysis | SPSS, EViews, Microsoft Excel |
+| Machine Learning Methods | Regression, classification, clustering, random forest, gradient boosting |
+| Data Visualization | Power BI, Tableau, Matplotlib, Seaborn |
+| Research Methods | PRISMA, systematic reviews, meta-analysis, evidence synthesis |
+| Research Software | Covidence, Rayyan, EndNote, Zotero, Mendeley |
+| Python Libraries | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| Research Communication | Scientific writing, manuscript development, technical reporting |
 
-**Programming and Data Analysis**
-- Python
-- R
-- SQL
-- SPSS
+*Machine learning and data science capabilities are an ongoing area of professional development. The methods listed above reflect areas of research learning and application; proficiency may vary by technique.*
 
-**Business Intelligence and Visualization**
-- Microsoft Power BI
-- Tableau
+---
 
-**Research Methods**
-- Systematic Reviews
-- Evidence Synthesis
-- Scoping Reviews
-- Health Economics Research
-- Data Analysis and Interpretation
+## 9. Certifications and Languages
 
-**Emerging Research Technologies**
-- Machine Learning
-- Artificial Intelligence in Healthcare
-- Real-World Evidence Analytics
+### Certifications and Professional Development
 
-## Professional Profiles
+- Diploma in Information Technology (DIT).
+- Professional Certifications, Quaid-e-Azam Academy.
+- Machine Learning and Data Science Training — Ongoing.
 
-- [GitHub](https://github.com/IqraMumtaz2000)
-- [LinkedIn](https://www.linkedin.com/in/iqra-mumtaz-357448373/)
+### Languages
+
+| Language | Proficiency |
+|---|---|
+| English | Professional |
+| Urdu | Native |
+| Italian | Intermediate |
+
+---
+
+## 10. Academic Profiles and Professional Networks
+
 - [ORCID](https://orcid.org/0009-0006-5876-5817)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=_Mu20EsAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Iqra-Mumtaz-7)
+- [LinkedIn](https://www.linkedin.com/in/iqra-mumtaz-357448373/)
+- [GitHub](https://github.com/IqraMumtaz2000)
 - [Kaggle](https://www.kaggle.com/iqram2000)
 
-## Contact
+**Email:** [imumtaz2000@gmail.com](mailto:imumtaz2000@gmail.com)  
+**Location:** Lucca, Italy
 
-For academic collaboration, research opportunities, and professional enquiries:
+---
 
-**Email:** [imumtaz2000@gmail.com](mailto:imumtaz2000@gmail.com)
+*References and additional information are available upon request.*
