@@ -103,7 +103,46 @@ This systematic review examines therapy-driven secondary immunodeficiency, funct
 
 ---
 
-## Research Projects and Portfolio
+
+## Research Projects and International Collaborations
+
+My ongoing research activities involve international academic collaborations, interdisciplinary evidence synthesis, and the application of advanced analytical methods to healthcare research.
+
+### 1. Post-Tuberculosis Lung Sequelae: A Scoping Review
+
+**Collaborator:** University of New South Wales (UNSW), Australia
+
+**Methodology:** Scoping Review
+
+**Status:** Ongoing
+
+An international research collaboration applying scoping review methodology to map evidence on post-tuberculosis lung sequelae, examine long-term pulmonary consequences, and identify gaps in the existing literature.
+
+### 2. Machine Learning Research on Infectious Diseases
+
+**Collaborator:** University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany
+
+**Methodology:** Machine Learning and Advanced Data Analytics
+
+**Status:** Ongoing
+
+Collaborative research exploring machine learning applications in infectious disease research, focusing on data-driven approaches to investigate disease-related patterns and support evidence-based healthcare research.
+
+### Other Research Interests
+
+My broader research interests include:
+
+- Secondary immunodeficiency and immune risk stratification.
+- Health economics and plasma-derived therapies.
+- Real-world evidence and healthcare analytics.
+- Artificial intelligence and machine learning in healthcare.
+- Systematic reviews and evidence synthesis.
+
+[View all research projects and portfolio work](/portfolio/)
+
+---
+
+## Research Portfolio
 
 My research and analytical portfolio focuses on applying multidisciplinary research methods, evidence synthesis, and data science to healthcare and biomedical research.
 
