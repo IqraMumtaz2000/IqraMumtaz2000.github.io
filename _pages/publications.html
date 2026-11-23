@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Publications"
@@ -5,32 +6,40 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>You can also find my research articles on
+<a href="https://scholar.google.com/citations?hl=en&user=_Mu20EsAAAAJ" target="_blank" rel="noopener">Google Scholar</a>.
+</p>
 
-{% include base_path %}
+<h2>Journal Articles</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="list__item">
+  <article class="archive__item">
+    <h3 class="archive__item-title">
+      <a href="https://doi.org/10.3389/fimmu.2026.1866662" target="_blank" rel="noopener">
+        Rethinking secondary immunodeficiency: a cross-domain pathway framework for risk stratification
+      </a>
+    </h3>
+    <p><strong>Iqra Mumtaz</strong> · <em>Frontiers in Immunology</em> · 2026</p>
+    <p>
+      A cross-domain pathway framework examining secondary immunodeficiency
+      and immune dysfunction to support risk stratification.
+    </p>
+    <p><a href="https://doi.org/10.3389/fimmu.2026.1866662" target="_blank" rel="noopener">View published paper (DOI)</a></p>
+  </article>
+</div>
 
-
-
+<div class="list__item">
+  <article class="archive__item">
+    <h3 class="archive__item-title">
+      <a href="https://doi.org/10.1007/s10875-026-02071-5" target="_blank" rel="noopener">
+        Redefining Secondary Immunodeficiency: A Systematic Review of Therapy-Driven Risk, Functional Immune Deficits, Diagnostic Inconsistencies, and Global Gaps in Standardized Care
+      </a>
+    </h3>
+    <p><strong>Iqra Mumtaz</strong> · <em>Journal of Clinical Immunology</em> · 2026</p>
+    <p>
+      A systematic review examining therapy-driven risks, functional immune
+      deficits, diagnostic inconsistencies, and gaps in standardized care.
+    </p>
+    <p><a href="https://doi.org/10.1007/s10875-026-02071-5" target="_blank" rel="noopener">View published paper (DOI)</a></p>
+  </article>
+</div>
